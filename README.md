@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm José Miguel Pérez [JotaEmePM!]
 <img align='right' src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" width="230">
-<p><em>Data Engineer at <a href="https://www.flsmidth.com/"> FLSmidth Chile
+<p><em>Developer at [MAPFRE Chile](https://mapfre.cl) 
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
